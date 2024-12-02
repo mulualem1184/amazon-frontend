@@ -1,8 +1,9 @@
 {
-  "homepage": "https://mulualem1184.github.io/amazon-frontend",
+  
   "name": "amazon-clone-1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
